@@ -1,4 +1,4 @@
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F2937&height=120&section=header&text=Nitish%20Malik&fontSize=30&fontColor=ffffff"/>
 # Hi, I'm Nitish Malik 👋
 
 🚀 GenAI Engineer | Building Agentic AI Systems, RAG Pipelines & Scalable APIs  
@@ -17,41 +17,48 @@
 
 ---
 
+---
 ## 🧠 Tech Stack
 
 ### 👨‍💻 Core
-![Python](https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-6A0DAD?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-6A0DAD?style=for-the-badge&logo=react&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
 ---
 
 ### 🤖 GenAI / LLM
-![LangChain](https://img.shields.io/badge/LangChain-6A0DAD?style=for-the-badge)
-![CrewAI](https://img.shields.io/badge/CrewAI-6A0DAD?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-6A0DAD?style=for-the-badge&logo=huggingface&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_API-6A0DAD?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-6A0DAD?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
+![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFBF00?style=flat&logo=huggingface&logoColor=black)
 
 ---
 
 ### 📊 RAG & Databases
-![FAISS](https://img.shields.io/badge/FAISS-6A0DAD?style=for-the-badge)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6A0DAD?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-6A0DAD?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-2C2C2C?style=flat)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-5A5A5A?style=flat)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
 ### 🎙️ AI / NLP
-![Whisper](https://img.shields.io/badge/Whisper-6A0DAD?style=for-the-badge)
-![Faster-Whisper](https://img.shields.io/badge/Faster_Whisper-6A0DAD?style=for-the-badge)
+![Whisper](https://img.shields.io/badge/Whisper-000000?style=flat)
+![Faster-Whisper](https://img.shields.io/badge/Faster_Whisper-000000?style=flat)
 
 ---
 
 ### ⚙️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-6A0DAD?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-6A0DAD?style=for-the-badge&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-6A0DAD?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-4CAF50?style=flat)
+
+
+
+
+
+
 
 ---
 
