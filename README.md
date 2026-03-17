@@ -1,68 +1,88 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Nitish%20Malik&fontSize=40&fontColor=ffffff"/>
+
 # Hi, I'm Nitish Malik 👋
 
-GenAI & Python Developer building AI agents, RAG systems, and scalable backend APIs.  
-Noida, India · initishmalik@gmail.com · https://www.linkedin.com/in/initish-malik
+🚀 GenAI Engineer | Building Agentic AI Systems, RAG Pipelines & Scalable APIs  
+
+📍 Noida, India  
+📧 initishmalik@gmail.com  
+🔗 https://www.linkedin.com/in/initish-malik  
 
 ---
 
 ## 🚀 What I Do
-- Build Agentic AI Systems  
-- Develop RAG Pipelines  
-- Design FastAPI Backends  
-- Deploy Production AI Apps  
+- 🤖 Build Agentic AI Systems  
+- 🧠 Develop RAG Pipelines  
+- ⚡ Design FastAPI Backends  
+- 🌐 Deploy Production AI Apps  
 
 ---
 
 ## 🧠 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-003366?style=flat)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat)
+### 👨‍💻 Core
+![Python](https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-6A0DAD?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-6A0DAD?style=for-the-badge&logo=react&logoColor=white)
 
 ---
 
-## 💼 Experience
+### 🤖 GenAI / LLM
+![LangChain](https://img.shields.io/badge/LangChain-6A0DAD?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-6A0DAD?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-6A0DAD?style=for-the-badge&logo=huggingface&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-6A0DAD?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-6A0DAD?style=for-the-badge)
 
-**Generative AI Intern — ITUX (Aug 2025 – Feb 2026)**  
-- Built scalable FastAPI backend improving response time by 40%  
-- Developed RAG pipelines using LangChain & FAISS  
-- Built speech-to-text system using Faster-Whisper  
-- Deployed using Docker & CI/CD  
+---
+
+### 📊 RAG & Databases
+![FAISS](https://img.shields.io/badge/FAISS-6A0DAD?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6A0DAD?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-6A0DAD?style=for-the-badge)
+
+---
+
+### 🎙️ AI / NLP
+![Whisper](https://img.shields.io/badge/Whisper-6A0DAD?style=for-the-badge)
+![Faster-Whisper](https://img.shields.io/badge/Faster_Whisper-6A0DAD?style=for-the-badge)
+
+---
+
+### ⚙️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-6A0DAD?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-6A0DAD?style=for-the-badge&logo=git&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-6A0DAD?style=for-the-badge)
 
 ---
 
 ## 🔥 Featured Projects
 
 ### 🟢 Agentic AI Trading Simulation  
-Multi-agent AI system for automated trading & portfolio management  
-🔗 Live: https://huggingface.co/spaces/hugnitishmalik/agentic-ai-trader1  
+Multi-agent AI system for trading automation  
+🔗 https://huggingface.co/spaces/hugnitishmalik/agentic-ai-trader1  
 
 ---
 
 ### 📄 Multi-PDF AI Chatbot  
-Chat with multiple PDFs using RAG  
-🔗 Live: https://llm-app-app-97qctdsebif6puzma9khsf.streamlit.app/  
+Chat with PDFs using RAG  
+🔗 https://llm-app-app-97qctdsebif6puzma9khsf.streamlit.app/  
 
 ---
 
 ### 🧾 AI Invoice Generator  
-Extract structured data from invoices using AI  
-🔗 Live: https://invoice-generator0.streamlit.app/  
+Extract structured invoice data using AI  
+🔗 https://invoice-generator0.streamlit.app/  
 
 ---
 
 ### 📊 Resume Analyzer AI  
-ATS-based resume evaluation system  
+AI-powered ATS system for resume evaluation  
 
 ---
 
 ### 🎙️ Voice AI Assistant  
-Real-time speech-to-text + AI system  
+Real-time speech-to-text AI system  
 
 ---
 
@@ -71,6 +91,11 @@ AI agents answering queries about my work
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitnitishmalik&show_icons=true&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=gitnitishmalik&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com?user=gitnitishmalik&theme=tokyonight)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer"/>
