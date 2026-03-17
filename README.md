@@ -102,4 +102,4 @@ AI agents answering queries about my work
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F2937&height=120&section=header&&fontSize=30&fontColor=ffffff"/>
+
