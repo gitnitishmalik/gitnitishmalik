@@ -1,4 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=200&section=header&text=Nitish%20Malik&fontSize=40&fontColor=ffffff"/>
 
 # Hi, I'm Nitish Malik 👋
 
