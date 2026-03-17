@@ -1,6 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F2937&height=120&section=header&text=Nitish%20Malik&fontSize=30&fontColor=ffffff"/>
-# Hi, I'm Nitish Malik 👋
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F2937&height=120&section=header&text=# Hi, I'm Nitish Malik 👋&fontSize=30&fontColor=ffffff"/>
 🚀 GenAI Engineer | Building Agentic AI Systems, RAG Pipelines & Scalable APIs  
 
 📍 Noida, India  
@@ -104,4 +102,4 @@ AI agents answering queries about my work
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F2937&height=120&section=header&&fontSize=30&fontColor=ffffff"/>
