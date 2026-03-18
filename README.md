@@ -80,20 +80,6 @@ Extract structured invoice data using AI
 
 ---
 
-### 📊 Resume Analyzer AI  
-AI-powered ATS system for resume evaluation  
-
----
-
-### 🎙️ Voice AI Assistant  
-Real-time speech-to-text AI system  
-
----
-
-### 🤖 Multi-Agent Portfolio Assistant  
-AI agents answering queries about my work  
-
----
 
 ## 📊 GitHub Activity
 
