@@ -70,7 +70,7 @@ Multi-agent AI system for trading automation
 
 ### 📄 Multi-PDF AI Chatbot  
 Chat with PDFs using RAG  
-🔗 https://llm-app-app-97qctdsebif6puzma9khsf.streamlit.app/  
+🔗 https://llm-streamlit-app.vercel.app/ 
 
 ---
 
