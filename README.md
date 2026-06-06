@@ -74,6 +74,13 @@ Chat with PDFs using RAG
 
 ---
 
+### 📄 ATS Resume Tracker  
+Chat with PDFs using RAG  
+🔗 https://ats-tracker-ten.vercel.app/ 
+
+---
+
+
 ### 🧾 AI Invoice Generator  
 Extract structured invoice data using AI  
 🔗 https://invoice-generator0.streamlit.app/
