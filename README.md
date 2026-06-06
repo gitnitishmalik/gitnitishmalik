@@ -62,6 +62,13 @@
 
 ## 🔥 Featured Projects
 
+
+### 🟢 Finance Analyst  
+Multi-agent AI system for Financial Analyzer  
+🔗 https://financial-analyst-ai-flax.vercel.app/  
+
+---
+
 ### 🟢 Agentic AI Trading Simulation  
 Multi-agent AI system for trading automation  
 🔗 https://huggingface.co/spaces/hugnitishmalik/agentic-ai-trader1  
