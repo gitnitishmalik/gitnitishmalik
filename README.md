@@ -98,8 +98,8 @@ Extract structured invoice data using AI
 
 ## 📊 GitHub Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=gitnitishmalik&show_icons=true&theme=tokyonight&cache_bust=5)
-![Streak](https://streak-stats.demolab.com?user=gitnitishmalik&theme=tokyonight&cache_bust=5)
+![Stats](https://github-readme-stats.vercel.app/api?username=gitnitishmalik&show_icons=true&theme=tokyonight&cache_bust=6)
+![Streak](https://streak-stats.demolab.com?user=gitnitishmalik&theme=tokyonight&cache_bust=6)
 
 ---
 
