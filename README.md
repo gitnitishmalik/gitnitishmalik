@@ -89,7 +89,7 @@ Chat with PDFs using RAG
 
 
 ### 🧾 AI Invoice Generator  
-Extract structured invoice data using AI  
+Extract structured invoice data using AI
 🔗 https://invoice-generator-rosy-gamma.vercel.app/
 
 
