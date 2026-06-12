@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 What I Do
-- 🤖 Build Agentic AI Systems  
+- 🤖 Build Agentic AI System 
 - 🧠 Develop RAG Pipelines  
 - ⚡ Design FastAPI Backends  
 - 🌐 Deploy Production AI Apps  
