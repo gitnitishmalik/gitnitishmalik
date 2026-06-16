@@ -8,48 +8,72 @@
 ---
 
 ## 🚀 What I Do
-- 🤖 Build Agentic AI System 
-- 🧠 Develop RAG Pipelines  
-- ⚡ Design FastAPI Backends  
-- 🌐 Deploy Production AI Apps  
+- 🤖 Build agentic AI systems with multi-agent orchestration & tool-calling
+- 🧠 Develop RAG pipelines over vector databases
+- ⚡ Design FastAPI backends with real-time SSE streaming
+- 🔄 Automate workflows with n8n
+- 🎙️ Build speech & NLP systems (Whisper / Faster-Whisper)
+- 🌐 Deploy production-grade AI apps end-to-end  
 
 ---
 
 ---
 ## 🧠 Tech Stack
 
-### 👨‍💻 Core
+### 👨‍💻 Languages & Core
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
 ---
 
 ### 🤖 GenAI / LLM
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
-![CrewAI](https://img.shields.io/badge/CrewAI-000000?style=flat)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat&logo=openai)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=googlegemini&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat&logo=anthropic&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFBF00?style=flat&logo=huggingface&logoColor=black)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat)
 
 ---
 
-### 📊 RAG & Databases
+### 🔄 Workflow Automation
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+
+---
+
+### 📊 RAG, Databases & Vector Stores
 ![FAISS](https://img.shields.io/badge/FAISS-2C2C2C?style=flat)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-5A5A5A?style=flat)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 
 ---
 
-### 🎙️ AI / NLP
+### 🎙️ Speech & NLP
 ![Whisper](https://img.shields.io/badge/Whisper-000000?style=flat)
 ![Faster-Whisper](https://img.shields.io/badge/Faster_Whisper-000000?style=flat)
 
 ---
 
-### ⚙️ DevOps & Tools
+### ⚙️ Backend & DevOps
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-4CAF50?style=flat)
 
 
