@@ -123,20 +123,20 @@ Extract structured invoice data using AI
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gitnitishmalik&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_bust=9" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitnitishmalik&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_bust=9" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gitnitishmalik&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_bust=10" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitnitishmalik&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_bust=10" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=gitnitishmalik&theme=tokyonight&hide_border=true&cache_bust=9" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=gitnitishmalik&theme=tokyonight&hide_border=true&cache_bust=10" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitnitishmalik&theme=tokyo-night&hide_border=true&area=true&cache_bust=9" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gitnitishmalik&theme=tokyo-night&hide_border=true&area=true&cache_bust=10" alt="Contribution Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gitnitishmalik&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&cache_bust=9" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gitnitishmalik&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&cache_bust=10" alt="GitHub Trophies" />
 </p>
 
 ---
