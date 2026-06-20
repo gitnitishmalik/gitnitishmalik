@@ -2,7 +2,7 @@
 🚀 GenAI Engineer | Building Agentic AI Systems, RAG Pipelines & Scalable APIs 
 
 📍 Noida, Ind
-📧 initishmalik@gmail.com  
+📧 initishmalik@gmail.com
 🔗 https://www.linkedin.com/in/initish-malik  
 
 ---
