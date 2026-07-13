@@ -28,7 +28,7 @@
 
 ---
 
-### 🤖 GenAI / LLm
+### 🤖 GenAI / LLM
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF5A50?style=flat)
