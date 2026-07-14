@@ -13,7 +13,7 @@
 - ⚡ Design FastAPI backends with real-time SSE streaming
 - 🔄 Automate workflows with n8n
 - 🎙️ Build speech & NLP systems (Whisper / Faster-Whisper)
-- 🌐 Deploy production-grade AI apps end to end
+- 🌐 Deployed production-grade AI apps end to end
 
 ---
 
