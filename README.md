@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 RAG, Databases & Vector 
+### 📊 RAG, Databases & Vector Stores
 ![FAISS](https://img.shields.io/badge/FAISS-2C2C2C?style=flat)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-5A5A5A?style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
