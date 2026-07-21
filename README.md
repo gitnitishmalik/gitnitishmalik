@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 What I Do
-- 🤖 Build agentic AI systems with multi-agent orchestration & tool-calling
+- 🤖 Build agentic AI systems with multi-agent orchestration & tool
 - 🧠 Develop RAG pipelines over vector databases
 - ⚡ Design FastAPI backends with real-time SSE streaming
 - 🔄 Automate workflows with n8n
