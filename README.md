@@ -3,7 +3,7 @@
 
 📍 Noida, India
 📧 initishmalik@gmail.com
-🔗 https://www.linkedin.com/in/initish-malik
+🔗 https://www.linkedin.com/in/initish-
 
 ---
 
