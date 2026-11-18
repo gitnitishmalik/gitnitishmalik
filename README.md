@@ -11,7 +11,7 @@
 - 🤖 Build agentic AI systems with multi-agent orchestration & tool-calling
 - 🧠 Develop RAG pipelines over vector databases
 - ⚡ Design FastAPI backends with real-time SSE streaming
-- 🔄 Automate workflows with 
+- 🔄 Automate workflows with n8n
 - 🎙️ Build speech & NLP systems (Whisper / Faster-Whisper)
 - 🌐 Deployed production-grade AI apps end to end production
 
